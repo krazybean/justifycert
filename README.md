@@ -1,7 +1,7 @@
 # justifycert
 
 ![PyPI](https://img.shields.io/pypi/v/justifycert)
-![Python](https://img.shields.io/pypi/pyversions/justifycert)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/github/license/krazybean/justifycert)
 ![CodeQL](https://github.com/krazybean/justifycert/actions/workflows/codeql.yml/badge.svg)
 
