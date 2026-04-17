@@ -1,4 +1,5 @@
 # justifycert
+
 ![PyPI](https://img.shields.io/pypi/v/justifycert)
 ![Python](https://img.shields.io/pypi/pyversions/justifycert)
 ![License](https://img.shields.io/github/license/krazybean/justifycert)
@@ -17,7 +18,7 @@ Fast, opinionated TLS certificate checks for developers.
 ## Install
 
 ```bash
-pip install .
+pip install justifycert
 ```
 
 ## Example
