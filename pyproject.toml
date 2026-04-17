@@ -11,6 +11,12 @@ requires-python = ">=3.10"
 dependencies = [
   "cryptography>=42",
 ]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Operating System :: OS Independent",
+  "License :: OSI Approved :: MIT License",
+]
 
 [project.scripts]
 justifycert = "justifycert.cli:main"
