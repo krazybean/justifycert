@@ -1,4 +1,8 @@
 # justifycert
+![PyPI](https://img.shields.io/pypi/v/justifycert)
+![Python](https://img.shields.io/pypi/pyversions/justifycert)
+![License](https://img.shields.io/github/license/krazybean/justifycert)
+![CodeQL](https://github.com/krazybean/justifycert/actions/workflows/codeql.yml/badge.svg)
 
 Fast, opinionated TLS certificate checks for developers.
 
